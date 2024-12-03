@@ -1,4 +1,4 @@
-# adarshkoyyana-ToDoListApp-KekaTask
+# PRAVEEN DONGALA-ToDoListApp-KekaTask
 This to-do list application allows users to manage their tasks effectively with features such as due dates, priority levels, categories, and task statuses. Users can create, edit, and delete tasks, and the app provides an intuitive and user-friendly interface for a seamless task management experience.
 
 The project leverages Kotlin, Android architecture components (ViewModel, LiveData), and potentially a local database (Room) for data persistence.
